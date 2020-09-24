@@ -3,4 +3,6 @@ A basic Artificial Neural network built to predict if a customer how likely a cu
 
 Simply start your favorite IDE and fire up the Jupyter notebook and run the file  
 OR   
-Even better, open up Google Collab and simply upload the project and voila! it will run in an instant.
+Even better, open up Google Collab and simply upload the project and voila! it will run in an instant.  
+OR  
+You could opt to run the attached .py file too. Just make sure you have the attached dataset.
